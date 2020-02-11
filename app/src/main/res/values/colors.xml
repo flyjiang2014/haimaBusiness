@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_app">#F1F1F1</color>
+
+    <!--透明、白色、黑色、灰色、暗灰色-->
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="grey_dim">#333333</color>
+    <color name="gray">#898989</color>
+    <!--红橙黄绿青蓝紫-->
+    <color name="red">#FF0000</color>
+    <color name="orange">#FFA500</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="green">#00FF00</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="blue">#0000FF</color>
+    <color name="magenta">#FF00FF</color>
+    <!--其他一些不常用的颜色-->
+    <color name="text_black">#3f3f3f</color>
+    <color name="tab_text_press_color">#B2B2B2</color>
+    <color name="tab_text_select_color">#FE9900</color>
+    <color name="base_loading_background">#f7f7f7</color>
+    <color name="base_text_color_light">#909090</color>
+    <color name="title_layout_bg">#0A9EF8</color>
+
+    <color name="text_grey999">#999999</color>
+    <color name="text_grey666">#666666</color>
+    <color name="colorPrimaryDark">#f57257</color>
+    <color name="colorPrimary">#f46444</color>
+    <color name="text_grey333">#333333</color>
+    <color name="text_grey333_90">#90333333</color>
+    <color name="shape_grey">#969696</color>
+    <color name="bg_line">#e7e7e7</color>
+    <color name="blue_half">#900000FF</color>
+</resources>
